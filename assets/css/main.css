@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fff;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    background-image: url('/assets/imgs/car-bg.jpg');
+    background-size: 100%;
+    background-position: center;
+    color: white;
+    
+
+}
+
+header .nav .log{
+    background-image: url('/assets/imgs/Vector\ \(1\).png');
+    background-size: 100%;
+}
